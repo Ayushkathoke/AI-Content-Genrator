@@ -3,6 +3,14 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+•	Leverage the power of artificial intelligence to create high-quality, engaging content effortlessly.
+•	Our web app utilizes advanced language models to generate articles, blog posts, product descriptions, social media updates, and more. Customize the tone, style, and length to suit your needs, saving time and boosting productivity.
+•	Whether you're a marketer, writer, or business owner, our AI Content Generator helps you craft compelling content with ease.
+•	Tech Stack: NextJs, React, TailwindCss, Gemini, Clerk.
+
+
+
 ## Getting Started
 
 First, run the development server:
